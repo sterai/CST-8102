@@ -7,13 +7,13 @@ Course Administration - Course Section Information (CSI)
 
 Course Content - Lab
                - Misc
-				       - Scrips
-				       - Slides
-				       - vim Tutor
-				       - Course Workbook
+	       - Scrips
+               - Slides
+	       - vim Tutor
+               - Course Workbook
 				 
 Resources      - Job Postings
                - Sobell Sample Chapters and Extracts
-			         - Linux iso, 20.04.1
-			         - Other White Papers
+               - Linux iso, 20.04.1
+               - Other White Papers
 			   
