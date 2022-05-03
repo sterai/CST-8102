@@ -1,0 +1,3 @@
+- These postings will give you an indication of the skills required in the current workplace.
+- Many of them would have expired, but they will give you a list of companies that are hiring and their expectations.
+- the link discovertechnata is from the April 2022 Job fair in Kanata.
