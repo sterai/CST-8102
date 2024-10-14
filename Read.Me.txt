@@ -1,0 +1,17 @@
+This document lists the folders and their contents
+------------------------------------------------------
+
+Course Administration - Course Section Information (CSI)
+
+Course Content - Lab
+               - Misc
+               - Scrips
+               - Slides
+               - vim Tutor
+               - Workbook
+				 
+Resources      - Job Postings
+               - Sobell Sample Chapters and Extracts
+               - Linux iso, 20.04.1
+               - Other White Papers
+			   
